@@ -1,3 +1,5 @@
 ---
+
 # Install and configure sudo
 - include: sudo.yml
+  tags: sudo
